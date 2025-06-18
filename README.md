@@ -1,4 +1,3 @@
 # 4-Semestre-Ponteiro
 
-Codigo que escrevi com auxilio do meu professor e amigos durante as aulas do 4° Semestre de Jogos Digitais
-Matéria Programação Avançada.
+Codigo que trabalha a ideia de Fila/Arvore e Pilha utilizando ponteiro na linguagem C.
